@@ -1,4 +1,4 @@
-# To-Do List API
+# Summary
 
 This is an examination for the Front-End Developer role at Tri Petch IT Solutions company.
 
